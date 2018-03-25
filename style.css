@@ -1,0 +1,9 @@
+#particles-js{
+background:firebrick;
+height:innerHeight;
+width: innerWidth;
+}
+#body{
+    overflow: hidden;
+    margin: 0;
+}
